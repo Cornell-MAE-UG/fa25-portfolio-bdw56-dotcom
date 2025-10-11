@@ -1,22 +1,22 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Bennett Wehibe - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Bennett Wehibe College Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [bdw56@cornell.edu](mailto:bdw56@cornell.edu) | | | **Phone:** +717 917 5035
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in math and science. Passionate about soccer and robotics and eager to apply my knowledge in real-world applications.
 
 ---
-
+//
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
@@ -72,3 +72,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 Available upon request.
 
 ---
+//
