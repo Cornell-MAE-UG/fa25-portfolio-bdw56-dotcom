@@ -8,6 +8,8 @@ image: /assets/images/overall-heat-exahnger.jpeg
 
 My thermodyanmics class setup a lab where we could how the initial temperatures of a hot bath and cold bath of water would change after running through a heat exchnager (the heat exchanger takes in two liquids and exchanges the heat between the two with a solid barrier between the two). To best show this result, my group tested putting the liquids flowing through the heat exchanger in parallel (and + / - pump speed) along with in counter-flow (and + / - pump speed). To best represent this, the diagram below shows a schematic of the heat exchanger with its control volume boundary around the heat exhcanher. To be in parallel flow, either the liquid flows from 1 -> 2 and the other flows from 3 -> 4 or vise versa. For counter-flow, either the liquid flows from 1 -> 2 and the other flows from 4 -> 3 or the liquid flows from 2 -> 1 while the other flows from 3 -> 4. (The first picture shows parallel flow and the second shows counterflow)
 
+![Photo of diagram]({{ "/assets/images/CV-explanation.jpg" | relative_url }}){: .inline-image-l}
+
 ![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/bennettwehibe/Downloads/Git/fa25-portfolio-bdw56-dotcom/assets/images/parallel-flow.jpeg?version%3D1764020181697)
 
 ![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/bennettwehibe/Downloads/Git/fa25-portfolio-bdw56-dotcom/assets/images/counter-flow.jpeg?version%3D1764020211939)
