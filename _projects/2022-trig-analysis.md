@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Heat Exchanger Analysis
+description: Class project with Schematics
+technologies: [GoodNotes, GoogleDrawings]
 image: /assets/images/function-graph.png
 ---
 
