@@ -8,7 +8,7 @@ image: /assets/images/overall-heat-exahnger.jpeg
 ## Heat Exchanger Lab Overview
 My thermodyanmics class setup a lab where we could examine how the initial temperatures of a hot bath and cold bath of water would change after running through a heat exchanger -- a device that takes in two liquids seperated by a solid barrier and exchanges the heat between the two either with parallel flow or counter flow. To best show this device, my group tested putting the liquids flowing through the heat exchanger in parallel (and + / - pump speed) along with in counter-flow (and + / - pump speed) in order to come to a conclusion of which is more efficient (including pump speed). To best represent this, the diagram below shows a schematic of the heat exchanger with its control volume boundary around the heat exchanger. To be in parallel flow, either the liquid flows from 1 -> 2 and the other flows from 3 -> 4 or vise versa. For counter-flow, either the liquid flows from 1 -> 2 and the other flows from 4 -> 3 or the liquid flows from 2 -> 1 while the other flows from 3 -> 4. (The first picture shows parallel flow and the second shows counterflow).
 
-![Photo of diagram]({{ "/assets/images/Heat Exchanger Drawing.jpg" | relative_url }}){: width="600px"}
+![Photo of diagram]({{ "/assets/images/Heat Exchanger Drawing.jpg" | relative_url }}){: width="800px"}
 
 ![Parallel flow]({{ "/assets/images/parallel-flow.jpeg" | relative_url }}){: width="400px"}
 ![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}){: width="400px"}
