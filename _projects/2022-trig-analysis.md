@@ -11,7 +11,7 @@ My thermodyanmics class setup a lab where we could examine how the initial tempe
 ![Photo of diagram]({{ "/assets/images/Heat Exchanger Drawing.jpg" | relative_url }}){: width="800px"}
 
 ![Parallel flow]({{ "/assets/images/parallel-flow.jpeg" | relative_url }}){: width="400px"}
-![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}){: width="400px"}
+![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}){: width="300px"}
 
 ## Data
 Assuming this is an ideal heat exchanger, it does no work (as the pumps inside of the hot and cold water baths are the ones doing the work). This means the heat is exchanged between the hot and cold inside of the heat exchanger by taking heat from the hot flow and into the cold flow. Here is the equation I used to find change in enthalpy and any excess heat that was probably taken up by material of the heat exchanger itself as there was a temperature change of the outsides of the heat exhchanger.
