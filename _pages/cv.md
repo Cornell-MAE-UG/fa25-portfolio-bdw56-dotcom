@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-I am curious about how I can apply my passions in soccer, mathematics, and robotics to real-world applications. In the future, I plan on gaining more of experience through internships and/or project teams.
+I am curious about how I can apply my passions in soccer, mathematics, and robotics to real-world applications. In the future, I plan on gaining more experiences through internships and/or project teams.
 
 ---
 
