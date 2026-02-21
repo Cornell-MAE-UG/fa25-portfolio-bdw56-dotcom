@@ -85,4 +85,3 @@ I am curious about how I can apply my passions in soccer, mathematics, and robot
 Available upon request.
 
 ---
-//

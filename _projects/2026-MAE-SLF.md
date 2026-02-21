@@ -12,7 +12,6 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 
 ## Problem statement
 
-<Who is affected?> is trying to <do what?> in <where/when?>, but <what currently goes wrong?>.  
 Current control methods for the spotted lanternfly (SLF) fail to ensure destruction or provide a reliable way to quantify how many egg masses were destroyed. Eggs are protected by a waxy coating and 68.5% are adhered to rough surfaces such as tree bark (2); if scraped onto the ground, they can still hatch if not destroyed. Our challenge is to develop a mechanical system that ensures destruction of egg masses across various surfaces and enables growers to numerically analyze the system’s success.
 
 ## Impact
