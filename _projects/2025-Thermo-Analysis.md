@@ -9,12 +9,9 @@ image: /assets/images/overall-heat-exahnger.jpeg
 My thermodyanmics class setup a lab where we could examine how the initial temperatures of a hot bath and cold bath of water would change after running through a heat exchanger -- a device that takes in two liquids seperated by a solid barrier and exchanges the heat between the two either with parallel flow or counter flow. To best show this device, my group tested putting the liquids flowing through the heat exchanger in parallel (and + / - pump speed) along with in counter-flow (and + / - pump speed) in order to come to a conclusion of which is more efficient (including pump speed). To best represent this, the diagram below shows a schematic of the heat exchanger with its control volume boundary around the heat exchanger. To be in parallel flow, either the liquid flows from 1 -> 2 and the other flows from 3 -> 4 or vise versa. For counter-flow, either the liquid flows from 1 -> 2 and the other flows from 4 -> 3 or the liquid flows from 2 -> 1 while the other flows from 3 -> 4. (The first picture shows parallel flow and the second shows counterflow).
 
 ![Photo of diagram]({{ "/assets/images/Heat Exchanger Drawing.jpg" | relative_url }}){: width="800px"}
-| Parallel flow | Counter flow |
-|--------------|--------------|
-| ![Parallel flow]({{ "/assets/images/parallel-flow.jpeg" | relative_url }}) | ![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}) |
 
 ![Parallel flow]({{ "/assets/images/parallel-flow.jpeg" | relative_url }}){: width="300px"}
-![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}){: width="250px"}
+![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}){: width="275px"}
 
 ## Data
 Assuming this is an ideal heat exchanger, it does no work (as the pumps inside of the hot and cold water baths are the ones doing the work). This means the heat is exchanged between the hot and cold inside of the heat exchanger by taking heat from the hot flow and into the cold flow. Here is the equation I used to find change in enthalpy and any excess heat that was probably taken up by material of the heat exchanger itself as there was a temperature change of the outsides of the heat exhchanger.
