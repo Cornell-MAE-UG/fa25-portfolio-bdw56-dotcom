@@ -10,14 +10,14 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 **Team:** Buzzkill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)   
 **Client(s):** Cornell CALS Extension | E\&J Gallo Winery | National Grape  
 
-#### Problem statement
+### Problem Statement
 
 Current control methods for the spotted lanternfly (SLF) fail to ensure destruction or provide a reliable way to quantify how many egg masses were destroyed. Eggs are protected by a waxy coating and 68.5% are adhered to rough surfaces such as tree bark (2); if scraped onto the ground, they can still hatch if not destroyed. Our challenge is to develop a mechanical system that ensures destruction of egg masses across various surfaces and enables growers to numerically analyze the system’s success.
 
-#### Impact
+### Impact
 Vineyards reduce SLF populations at the source by targeting egg masses, which prevents the emergence of 30 to 50 insects per egg mass (1). Verifying destruction allows vineyards to quantify population reduction, improving confidence in control protocols and providing a scalable solution.
 
-#### Proposed direction: 
+### Proposed direction: 
 ###### Jaw-Bucket Egg Removal and Containment System   
 Jaws scrape off and collect egg masses. An internal compartment stores eggs for later disposal.
 
@@ -32,7 +32,7 @@ Jaws scrape off and collect egg masses. An internal compartment stores eggs for 
 
 By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects simulated egg masses off various surfaces and requires little force input to operate.
 
-#### Key risks / unknowns
+### Key Risks / Unknowns
 
 - Risk 1: Operation of this device can be labor and time intensive for farmers with tight margins     
 *Importance/Testing:* If too slow, vineyards won’t adopt it; test by finding time per egg mass
@@ -41,7 +41,7 @@ By the end of the semester, we will have a tested prototype showing proof of con
 - Risk 3: Interference with growing regulations by introducing a new device into the vineyard   
 *Importance/Testing:* If it violates regulations, it can’t be used; test by checking growing standards
 
-#### Questions for the client
+#### Questions For the Client
 
 1. <u> Do egg masses vary significantly in size, thickness, or shape throughout the season?</u>   
 *Decision Affected:* Jaw opening width, bucket size, and shape of teeth on the jaw
@@ -50,7 +50,7 @@ By the end of the semester, we will have a tested prototype showing proof of con
 3. <u> Are eggs often laid in places throughout vineyards that can’t be reached by hand?</u>   
 *Decision Affected:* Impacts whether or not the tool is extendable/flexible to enable greater reach
 
-#### References
+### References
 
 1. J Keller, J Rost, K Hoover, J Urban, H Leach, M Porras, B Walsh, M Bosold, D Calvin. 
 “Dispersion Patterns and Sample Size Estimates for Egg Masses of Spotted Lanternfly (*Hemiptera: Fulgoridae*),” Environmental Entomology, Volume 49, Issue 6, December 2020, Pages 1462–1472. <https://doi.org/10.1093/ee/nvaa107>
@@ -58,6 +58,6 @@ By the end of the semester, we will have a tested prototype showing proof of con
 2. Houping Liu, Oviposition Substrate Selection, Egg Mass Characteristics, Host Preference, and 
 Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America, Environmental Entomology, Volume 48, Issue 6, December 2019, Pages 1452–1468, <https://doi.org/10.1093/ee/nvz123>
 
-#### Figure
+### Figure
 ![Initial Drawing]({{ "/assets/images/ODP_Initial_Drawing.PNG" | relative_url }}){: width="800px"}
-**Figure 1: Mechanical Jaw Bucket Design with Internal Compartment**
+Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
