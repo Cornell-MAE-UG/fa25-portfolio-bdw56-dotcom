@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Optimizing Rigid Rod and Pin Setup
+title: ENGRD2020 Optimizing Rigid Rod and Pin Setup
 description: In a confined space, find the most mass and highest height that a linear actuator can push a weight to along a rigid bar
 technologies: [GoodNotes Drawings, Desmos, Google Sheets]
 image: /assets/images/linear-actuator-diagram.jpg
@@ -37,5 +37,5 @@ Using a rectangle as the cross section (I = 1/12bh^3), I want to make a cross se
 
 In reality, you would not choose a cross-section that has the minimum moment of intertia since there is a strong possibility that something happens to the beam, forcing the Imin to not be sufficient enough to keep the delfection under 3 cm. Therefore, a greater area would more than likely be chosen (depending on factor of safety) even though the Imin value leads to the most mass-efficient model (smallest area with Height = 2 * Base). 
 
-![Photo of diagram]({{ "/assets/images/linear-actuator-diagrampt2.jpeg" | relative_url }}){: .inline-image-l}
+![Photo of diagram]({{ "/assets/images/linear-actuator-diagrampt2.jpeg" | relative_url }}){: width="800px"}
 

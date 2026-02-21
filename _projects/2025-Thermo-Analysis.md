@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Heat Exchanger Analysis
+title: ENGRD2210 Heat Exchanger Analysis
 description: Class project with Schematics
 technologies: [GoodNotes, GoogleDrawings]
 image: /assets/images/overall-heat-exahnger.jpeg
@@ -10,7 +10,7 @@ My thermodyanmics class setup a lab where we could examine how the initial tempe
 
 ![Photo of diagram]({{ "/assets/images/Heat Exchanger Drawing.jpg" | relative_url }}){: width="800px"}
 
-![Parallel flow]({{ "/assets/images/parallel-flow.jpeg" | relative_url }}){: width="400px"}
+![Parallel flow]({{ "/assets/images/parallel-flow.jpeg" | relative_url }}){: width="300px"}
 ![Counter flow]({{ "/assets/images/counter-flow.jpeg" | relative_url }}){: width="300px"}
 
 ## Data

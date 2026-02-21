@@ -1,7 +1,13 @@
-
+---
+layout: project
+title: MAE2250 Open Design Project
+description: Group project focusing on the lanternfly infestation and their effects on the grape industry 
+technologies: []
+image: /assets/images/ODP_Initial_Drawing.PNG
+---
 # Your Project Title
 
-**Team:** _Your Team Name_
+**Team:** Buzzkill
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
 ## Problem statement (most important)
@@ -22,10 +28,6 @@ Give context for why solving this sub-problem addresses the client's user needs.
 **Why it’s better than the status quo:** <2–3 bullets.>  
 **End-of-semester proof-of-concept:** <what you can realistically build/test in MAE 2250.>  
 
-### Concepts B, C, etc.
-
-<Only include if you want the client to compare two directions. Keep short.>
-
 ## Key risks / unknowns
 
 - <Risk 1> — why it matters, and how you’ll test it.
@@ -40,8 +42,6 @@ Focus on questions they can answer from lived experience.
    *Decision affected:* <what choice this answer changes for your team.>
 3. **<Question 3>**  
    *Decision affected:* <what choice this answer changes for your team.>
-4. **<Question 4 (optional)>**  
-   *Decision affected:* <what choice this answer changes for your team.>
 
 
 # Optional page 2 — References and/or one figure
@@ -52,5 +52,6 @@ Focus on questions they can answer from lived experience.
 - <Source 2 (URL or citation)>
 
 ## Figure
+![Initial Drawing]({{ "/assets/images/ODP_Initial_Drawing.PNG" | relative_url }}){: width="800px"}
 
 <!-- ![<One-line caption. No full sentences.>](figures/<your_figure_filename>.png) -->
