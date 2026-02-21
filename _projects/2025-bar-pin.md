@@ -37,5 +37,5 @@ Using a rectangle as the cross section (I = 1/12bh^3), I want to make a cross se
 
 In reality, you would not choose a cross-section that has the minimum moment of intertia since there is a strong possibility that something happens to the beam, forcing the Imin to not be sufficient enough to keep the delfection under 3 cm. Therefore, a greater area would more than likely be chosen (depending on factor of safety) even though the Imin value leads to the most mass-efficient model (smallest area with Height = 2 * Base). 
 
-![Photo of diagram]({{ "/assets/images/linear-actuator-diagrampt2.jpeg" | relative_url }}){: width="600px"}
+![Photo of diagram]({{ "/assets/images/linear-actuator-diagrampt2.jpeg" | relative_url }}){: width="575px"}
 
