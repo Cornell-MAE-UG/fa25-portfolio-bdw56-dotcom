@@ -17,8 +17,8 @@ Current control methods for the spotted lanternfly (SLF) fail to ensure destruct
 ### Impact
 Vineyards reduce SLF populations at the source by targeting egg masses, which prevents the emergence of 30 to 50 insects per egg mass (1). Verifying destruction allows vineyards to quantify population reduction, improving confidence in control protocols and providing a scalable solution.
 
-### Proposed direction: 
-##### Jaw-Bucket Egg Removal and Containment System   
+### Proposed direction
+###### Jaw-Bucket Egg Removal and Containment System   
 Jaws scrape off and collect egg masses. An internal compartment stores eggs for later disposal.
 
 <u>Method of Usage: </u>
