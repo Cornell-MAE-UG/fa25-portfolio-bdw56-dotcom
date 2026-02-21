@@ -41,7 +41,7 @@ By the end of the semester, we will have a tested prototype showing proof of con
 - Risk 3: Interference with growing regulations by introducing a new device into the vineyard   
 *Importance/Testing:* If it violates regulations, it can’t be used; test by checking growing standards
 
-#### Questions For the Client
+### Questions For the Client
 
 1. <u> Do egg masses vary significantly in size, thickness, or shape throughout the season?</u>   
 *Decision Affected:* Jaw opening width, bucket size, and shape of teeth on the jaw
