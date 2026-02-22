@@ -27,8 +27,8 @@ Jaws scrape off and collect egg masses. An internal compartment stores eggs for 
  - Uses a sliding door container to allow egg masses to fall in but not back out onto the ground
 
 <u>Improvements Over Past Solutions: </u>
- - More efficient and comfortable than scraping with a card, allows collection of many egg masses
- - Doesn’t use chemicals or toxic fluids, doesn’t interfere with farm equipment or operations
+ - More efficient and comfortable than scraping with a card, but still hand-held chemical free
+ - Enables easy counting of egg masses in the bucket to numerically evaluate the device's impact
 
 By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects simulated egg masses off various surfaces and requires little force input to operate.
 
