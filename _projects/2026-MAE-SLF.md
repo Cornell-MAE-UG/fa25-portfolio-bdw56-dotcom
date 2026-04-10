@@ -5,6 +5,9 @@ description: Group project focusing on the lanternfly infestation and their effe
 technologies: [GoodNotes]
 image: /assets/images/ODP_Initial_Drawing.PNG
 ---
+## Table of Contents
+[Client Pitch](#a-mechanical-approach-to-quantifiable-spotted-lanternfly-egg-mass-control)
+
 ## A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
 
 **Team:** Buzzkill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)   
