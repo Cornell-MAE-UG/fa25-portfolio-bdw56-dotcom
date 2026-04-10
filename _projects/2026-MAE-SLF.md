@@ -7,8 +7,7 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 ---
 ## Table of Contents
 [Client Pitch](#client-pitch:-a-mechanical-approach-to-quantifiable-spotted-lanternfly-egg-mass-control)<br>
-[Functional Prototype](#functional-prototype)
-<br>
+[Functional Prototype](#functional-prototype) <br>
 <br>
 ## Client Pitch: A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
 
