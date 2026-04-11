@@ -73,3 +73,21 @@ Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
 ![Initial Drawing]({{ "/assets/images/Table1pt1.png" | relative_url }}){: width="575px"}
 Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
 {: style="display: block; text-align: center; font-size: 0.8em; color: black;"}
+
+### Design Intent and Functionality:   
+    We used the calculations and design estimates from our proof of concept and the feedback we received to refine our design and build our functional prototype. 
+	Our bucket and jaw assembly, made out of lightweight 3D-printed plastic, is designed to hold 100 egg masses. For our first prototype, we decided to use PLA because it is cost-effective and the RPL can print it quickly. We designed the bucket to have an angled opening and curved bottom, so it works at different angles. The springs attach to the inside of the bucket and jaw, and the assembly moves with the help of the hinge and string on top.
+
+<div style="display: flex; gap: 20px; text-align: center;">
+
+<div>
+  ![Figure 1]({{ '/assets/images/Figure1.png' | relative_url }})
+  **Figure 1:** Bucket and Jaw Side View Closed
+</div>
+
+<div>
+  ![Figure 2]({{ '/assets/images/Figure2.png' | relative_url }})
+  **Figure 2:** Bucket and Jaw Side View Open
+</div>
+
+</div>
