@@ -6,7 +6,7 @@ technologies: [GoodNotes]
 image: /assets/images/ODP_Initial_Drawing.PNG
 ---
 ## Table of Contents
-[Client Pitch](#client-pitch:-a-mechanical-approach-to-quantifiable-spotted-lanternfly-egg-mass-control)<br>
+[Client Pitch](#client-pitch-a-mechanical-approach-to-quantifiable-spotted-lanternfly-egg-mass-control)<br>
 [Functional Prototype](#functional-prototype)
 <br>
 <br>
@@ -80,8 +80,9 @@ Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
 
 
 ### Design Intent and Functionality:   
-    We used the calculations and design estimates from our proof of concept and the feedback we received to refine our design and build our functional prototype. 
-    Our bucket and jaw assembly, made out of lightweight 3D-printed plastic, is designed to hold 100 egg masses. For our first prototype, we decided to use PLA because it is cost-effective and the RPL can print it quickly. We designed the bucket to have an angled opening and curved bottom, so it works at different angles. The springs attach to the inside of the bucket and jaw, and the assembly moves with the help of the hinge and string on top.    
+We used the calculations and design estimates from our proof of concept and the feedback we received to refine our design and build our functional prototype.    
+
+Our bucket and jaw assembly, made out of lightweight 3D-printed plastic, is designed to hold 100 egg masses. For our first prototype, we decided to use PLA because it is cost-effective and the RPL can print it quickly. We designed the bucket to have an angled opening and curved bottom, so it works at different angles. The springs attach to the inside of the bucket and jaw, and the assembly moves with the help of the hinge and string on top.    
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2%;">
 
@@ -108,6 +109,18 @@ Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
 </div>
 <br>
 After feedback on our mock-up prototype, we designed a 3D-print shoulder stock attachment to the other end of the PVC pipe and attached padding on the end to further reduce user discomfort.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2%;">
+
+  <div style="width: 48%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 5.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 5: Shoulder Stock Rear View</span>
+  </div>
+
+  <div style="width: 48%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 6.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 6: Shoulder Stock side View</span>
+  </div>
 
 The handle-trigger assembly is made up of 2 pieces of 3D-printed plastic. The handle is slid onto and screwed in place to the PVC pipe. The string that operates the jaw is attached to the trigger, which slides along guide rails on the inside of the handle. 
 
@@ -136,6 +149,7 @@ This concludes the assembly process. Below is an image of the functional prototy
 **Initial**
 - Output force of jaw mechanism when fully open: 12.5N
 - Opening gap of jaw due to spring rest length: 1.05 inches   
+
 **After 100 cycles**
 - Output force of jaw mechanism when fully open: 11.5N
 - Opening gap due to jaw due to spring rest length: 1.15 inches   
