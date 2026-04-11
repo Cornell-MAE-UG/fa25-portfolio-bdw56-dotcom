@@ -70,7 +70,7 @@ Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America,
 ### Figure
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
 
-  <div style="width: 80%; text-align: center;">
+  <div style="width: 96%; text-align: center;">
     <img src="{{ '/assets/images/ODP_Initial_Drawing.PNG' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
     <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
       Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
@@ -78,11 +78,6 @@ Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America,
   </div>
 
 </div>
-<br>
-![Initial Drawing]({{ "/assets/images/ODP_Initial_Drawing.PNG" | relative_url }}){: width="575px"}
-Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
-{: style="display: block; text-align: center; font-size: 0.8em; color: black;"}
-
 <br>
 
 ## Functional Prototype
@@ -157,9 +152,10 @@ The handle-trigger assembly is made up of 2 pieces of 3D-printed plastic. The ha
 </div>
 <br>
 This then yields the larger, more surface-level operation of the functional prototype in which a user squeezes the trigger to open the jaw, and then releases to scrap off an egg mass.
+
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
 
-  <div style="width: 80%; text-align: center;">
+  <div style="width: 96%; text-align: center;">
     <img src="{{ '/assets/images/Figure 10.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
     <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
       Figure 10: Entire CAD Prototype
@@ -170,16 +166,87 @@ This then yields the larger, more surface-level operation of the functional prot
 <br>
 
 ### Assembly Process:  
-After 3D printing the parts shown above and ordering the rest of the parts from McMaster or sourcing from the Taylor Design Studio, we began the assembly process. Due to larger than expected tolerances of the RPL, we had to sand down the diameter of the PVC pipe in order for it to fit into the slots on our components. We then drilled ¼ in holes in the pipe at the locations needed to bolt the components to the pipe and run string where needed.
+After 3D printing the parts shown above and ordering the rest of the parts from McMaster or sourcing from the Taylor Design Studio, we began the assembly process. Due to larger than expected tolerances of the RPL, we had to sand down the diameter of the PVC pipe in order for it to fit into the slots on our components. We then drilled ¼ in holes in the pipe at the locations needed to bolt the components to the pipe and run string where needed.   
+
 First, a through hole was drilled in the back of the pipe and the shoulder stock was bolted on. For consistency, will use red arrows denoting functional/mechanical motion (intended use) and blue arrows for assembly processes.
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+
+  <div style="width: 96%; text-align: center;">
+    <img src="{{ '/assets/images/Figure 11.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
+      Figure 11: Shoulder Stock Attached
+    </span>
+  </div>
+
+</div>
+<br>
 Next, we drilled holes both for the bolt attaching the handle to the pipe and also to run string from the handle to inside the pipe. 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2%;">
+
+  <div style="width: 31%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 12.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 12: Sliding on Handle</span>
+  </div>
+
+  <div style="width: 31%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 13.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 13: Running String Through Handle</span>
+  </div>
+
+  <div style="width: 31%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 14.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 14: Trigger and Handle Assembled and Bolted</span>
+  </div>
+
+</div>
+<br>
 
 Following this, we drilled a hole to bolt the bucket-jaw assembly to the pipe, as well as a hole before thai attachment at the top of the pipe to allow the string to exit the inside of the pipe and move towards its guide ramp on the bucket for actuation.
 
-The subassemblies include the handle-trigger and bucket-jaw assemblies. The handle-trigger assembly can be seen through the images above, as the trigger simply slides in the handles guide rails while the string ties to it. The bucket-jaw asse
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2%;">
+
+  <div style="width: 48%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 15.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 15: Inserting Pipe to Bucket</span>
+  </div>
+
+  <div style="width: 48%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 16.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 16: Attached Bucket-Jaw Assembly</span>
+  </div>
+
+</div>
+<br>
+
+The subassemblies include the handle-trigger and bucket-jaw assemblies. The handle-trigger assembly can be seen through the images above, as the trigger simply slides in the handles guide rails while the string ties to it. The bucket-jaw assembly is made using four M6 bolts and the ordered hinge as shown below.
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+
+  <div style="width: 96%; text-align: center;">
+    <img src="{{ '/assets/images/Figure 17.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
+      Figure 17: Bucket-Jaw Assembly
+    </span>
+  </div>
+
+</div>
+<br>
 
 This concludes the assembly process. Below is an image of the functional prototype as built in the lab.
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+
+  <div style="width: 96%; text-align: center;">
+    <img src="{{ '/assets/images/Figure 18.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
+      Figure 18: Final Assembled Prototype in Operating Position
+    </span>
+  </div>
+
+</div>
+<br>
 
 ### Design Testing  
 <u>Test One:</u>  
@@ -213,6 +280,29 @@ This concludes the assembly process. Below is an image of the functional prototy
 - Took over 40 pounds of force to squeeze handle when not perfectly aligned   
 
 **Conclusion for Next Iteration:** Our goal for this prototype was to get a RULA score below 5, which means that users will be at a low risk of MSD (musculoskeletal disorders) from our device, based on the below graphic from Ergo-Plus (2). See images below for further information. We calculated our prototype to have a total RULA score of 3.9, indicating low risk and achieving our goal of <5. For our next prototype, we aim to keep our score at or below 3.9. The handle and trigger will also be redesigned because the rail system often jams, causing the trigger to be stuck even for large squeezing forces.
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+
+  <div style="width: 96%; text-align: center;">
+    <img src="{{ '/assets/images/Figure 19.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
+      Figure 19: RULA Score Meanings (2)
+    </span>
+  </div>
+
+</div>
+<br>
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+
+  <div style="width: 96%; text-align: center;">
+    <img src="{{ '/assets/images/Figure 20.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
+      Figure 20: RULA Calculations with CU Ergo Template (1)
+    </span>
+  </div>
+
+</div>
+<br>
 
 <u>Test Three:</u> 
 
