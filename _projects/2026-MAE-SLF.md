@@ -12,6 +12,8 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 <br>
 <br>
 <br>
+<br>
+
 ## Client Pitch: A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
 
 **Team:** Buzzkill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)   
