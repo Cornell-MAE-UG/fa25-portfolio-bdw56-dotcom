@@ -122,9 +122,41 @@ After feedback on our mock-up prototype, we designed a 3D-print shoulder stock a
     <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 6: Shoulder Stock side View</span>
   </div>
 
+</div>
+<br>
 The handle-trigger assembly is made up of 2 pieces of 3D-printed plastic. The handle is slid onto and screwed in place to the PVC pipe. The string that operates the jaw is attached to the trigger, which slides along guide rails on the inside of the handle. 
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2%;">
+
+  <div style="width: 31%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 7.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 7: Handle-Trigger Side Profile</span>
+  </div>
+
+  <div style="width: 31%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 8.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 8: Handle Back Profile and Trigger Guide Rails</span>
+  </div>
+
+  <div style="width: 31%; text-align: center; margin-bottom: 20px;">
+    <img src="{{ '/assets/images/Figure 9.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">Figure 9: Handle-Trigger Assembly</span>
+  </div>
+
+</div>
+<br>
 This then yields the larger, more surface-level operation of the functional prototype in which a user squeezes the trigger to open the jaw, and then releases to scrap off an egg mass.
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+
+  <div style="width: 60%; text-align: center;">
+    <img src="{{ '/assets/images/Figure 10.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
+      Figure 10: Entire CAD Prototype
+    </span>
+  </div>
+
+</div>
+<br>
 
 ### Assembly Process:  
 After 3D printing the parts shown above and ordering the rest of the parts from McMaster or sourcing from the Taylor Design Studio, we began the assembly process. Due to larger than expected tolerances of the RPL, we had to sand down the diameter of the PVC pipe in order for it to fit into the slots on our components. We then drilled ¼ in holes in the pipe at the locations needed to bolt the components to the pipe and run string where needed.
