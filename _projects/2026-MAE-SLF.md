@@ -80,13 +80,50 @@ Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
 <div style="display: flex; gap: 20px; text-align: center;">
 
 <div>
-  ![Figure 1]({{ '/assets/images/Figure1.png' | relative_url }})
+  ![Figure 1]({{ '/assets/images/Figure 1.png' | relative_url }})
   **Figure 1:** Bucket and Jaw Side View Closed
 </div>
 
 <div>
-  ![Figure 2]({{ '/assets/images/Figure2.png' | relative_url }})
+  ![Figure 2]({{ '/assets/images/Figure 2.png' | relative_url }})
   **Figure 2:** Bucket and Jaw Side View Open
 </div>
 
 </div>
+
+After feedback on our mock-up prototype, we designed a 3D-print shoulder stock attachment to the other end of the PVC pipe and attached padding on the end to further reduce user discomfort.
+
+The handle-trigger assembly is made up of 2 pieces of 3D-printed plastic. The handle is slid onto and screwed in place to the PVC pipe. The string that operates the jaw is attached to the trigger, which slides along guide rails on the inside of the handle. 
+
+This then yields the larger, more surface-level operation of the functional prototype in which a user squeezes the trigger to open the jaw, and then releases to scrap off an egg mass.
+
+### Assembly Process:  
+After 3D printing the parts shown above and ordering the rest of the parts from McMaster or sourcing from the Taylor Design Studio, we began the assembly process. Due to larger than expected tolerances of the RPL, we had to sand down the diameter of the PVC pipe in order for it to fit into the slots on our components. We then drilled ¼ in holes in the pipe at the locations needed to bolt the components to the pipe and run string where needed.
+First, a through hole was drilled in the back of the pipe and the shoulder stock was bolted on. For consistency, will use red arrows denoting functional/mechanical motion (intended use) and blue arrows for assembly processes.
+
+Next, we drilled holes both for the bolt attaching the handle to the pipe and also to run string from the handle to inside the pipe. 
+
+Following this, we drilled a hole to bolt the bucket-jaw assembly to the pipe, as well as a hole before thai attachment at the top of the pipe to allow the string to exit the inside of the pipe and move towards its guide ramp on the bucket for actuation.
+
+The subassemblies include the handle-trigger and bucket-jaw assemblies. The handle-trigger assembly can be seen through the images above, as the trigger simply slides in the handles guide rails while the string ties to it. The bucket-jaw asse
+
+This concludes the assembly process. Below is an image of the functional prototype as built in the lab.
+
+### Design Testing  
+<u>Test One:</u>  
+
+**Part:** Bucket and Jaw Assembly  
+**What it is Testing:** Scraping/Hinging Force of the Jaw When Attached to Bucket, Durability  
+**How to Perform Test:** Using spring scale, measure output force of the jaw mechanism, and using ruler measure opening gap of the jaw due to spring rest length. Then, cycle the actuating system 100 times, and measure the output force and rest length again. Observe any changes in force or rest length. 
+
+*Test Results:* 
+**Initial**
+- Output force of jaw mechanism when fully open: 12.5N
+- Opening gap of jaw due to spring rest length: 1.05 inches
+
+**After 100 cycles**
+- Output force of jaw mechanism when fully open: 11.5N
+- Opening gap due to jaw due to spring rest length: 1.15 inches
+
+**Conclusion for Next Iteration:** Opening gap increased by 0.1 inch and force decreased by 1N over 100 usage cycles. The springs we used for this prototype are too long and too prone to wear, so we will find shorter and more durable springs for the next prototype.
+
