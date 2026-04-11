@@ -6,7 +6,7 @@ technologies: [GoodNotes]
 image: /assets/images/ODP_Initial_Drawing.PNG
 ---
 # Table of Contents
-[Client Pitch](#client-pitch-a-mechanical-approach-to-quantifiable-spotted-lanternfly-egg-mass-control)<br>
+[Client Pitch](#client-pitch)<br>
 [Functional Prototype](#functional-prototype)
 <br>
 <br>
