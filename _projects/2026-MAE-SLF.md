@@ -148,7 +148,7 @@ The handle-trigger assembly is made up of 2 pieces of 3D-printed plastic. The ha
 This then yields the larger, more surface-level operation of the functional prototype in which a user squeezes the trigger to open the jaw, and then releases to scrap off an egg mass.
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
 
-  <div style="width: 60%; text-align: center;">
+  <div style="width: 70%; text-align: center;">
     <img src="{{ '/assets/images/Figure 10.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
     <span style="font-weight: bold; font-size: 0.75em; display: block; line-height: 1.2;">
       Figure 10: Entire CAD Prototype
