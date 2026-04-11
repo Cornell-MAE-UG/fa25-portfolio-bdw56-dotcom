@@ -71,8 +71,7 @@ Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
 
 ## Functional Prototype
 ![Initial Drawing]({{ "/assets/images/Table1pt1.png" | relative_url }}){: width="575px"}
-Figure 1: Mechanical Jaw Bucket Design with Internal Compartment
-{: style="display: block; text-align: center; font-size: 0.8em; color: black;"}
+
 
 ### Design Intent and Functionality:   
     We used the calculations and design estimates from our proof of concept and the feedback we received to refine our design and build our functional prototype. 
