@@ -14,7 +14,7 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 <br>
 <br>
 
-## Client Pitch: A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
+# Client Pitch: A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
 
 **Team:** Buzzkill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)   
 **Client(s):** Cornell CALS Extension | E\&J Gallo Winery | National Grape  
@@ -80,7 +80,7 @@ Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America,
 </div>
 <br>
 
-## Functional Prototype
+# Functional Prototype
 ![Initial Drawing]({{ "/assets/images/Table1pt1.png" | relative_url }}){: width="575px"}
 ![Initial Drawing]({{ "/assets/images/Table1pt2.png" | relative_url }}){: width="575px"}
 
