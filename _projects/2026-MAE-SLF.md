@@ -496,7 +496,10 @@ BRANCHES” 7th TAE 17-20 September 2019, Prague, Czech Republic, <https://2019.
 
 ### Appendix
 #### Handling Team Member Absences
-  During Allen’s absence, the team made sure to understand his progress in his role. Before his absence, the team used office hours to work on assembling our final prototype to get ahead before the lab section to ensure we would not fall behind schedule. This strategy let us ensure that no components of our prototype were missing and that we could focus on individual aspects of the prototype without Allen being present.   <br>
+  During Allen’s absence, the team made sure to understand his progress in his role. Before his absence, the team used office hours to work on assembling our final prototype to get ahead before the lab section to ensure we would not fall behind schedule. This strategy let us ensure that no components of our prototype were missing and that we could focus on individual aspects of the prototype without Allen being present.  
+
+<br>
+
   During Trevor’s absence, our team made sure to meet during the week before our presentation to rewrite and rehearse the elevator pitch with the adjustments made to fill in for his planned part. This let us make sure that our presentation was still able to go smoothly despite his absence. Furthermore, we informed him of the progress we made on the project so that he was up to speed upon his return. This provided a smooth transition.   
 
 <br>
