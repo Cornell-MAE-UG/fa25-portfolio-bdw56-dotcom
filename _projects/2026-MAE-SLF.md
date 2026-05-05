@@ -404,7 +404,7 @@ more egg masses and removable bucket to dispose of them.
 <br>
 
 ### Conclusion and Recommendation
-  The intended goal of the prototype was to efficiently collect egg masses while being comfortable for the user when reaching at a variety of heights. We achieved an average of 2.65 seconds per egg mass when collecting which is incredibly efficient considering current solutions that involve scraping with a credit card. The design performed favorably on the Rapid Upper Limb Assessment (RULA) scoring a 3.9 when a score of below 4 is desired to indicate an ergonomic design (2). Lastly, the generated force of the scraping jaw was 12.5N, which decreased by 8% to 11.5N after 100 cycles.    <br>
+  The intended goal of the prototype was to efficiently collect egg masses while being comfortable for the user when reaching at a variety of heights. We achieved an average of 2.65 seconds per egg mass when collecting which is incredibly efficient considering current solutions that involve scraping with a credit card. The design performed favorably on the Rapid Upper Limb Assessment (RULA) scoring a 3.9 when a score of below 4 is desired to indicate an ergonomic design (2). Lastly, the generated force of the scraping jaw was 12.5N, which decreased by 8% to 11.5N after 100 cycles. <br>
   The culmination of these tests indicated to us that the design is efficient and comfortable for a user, meeting our main two objectives; however, there are areas for improvement. For starters, we recommend that electronic components be implemented to open and close the jaw, pivot the head, and open and close the divider. These adjustments work to eliminate the issue of a loss in force as the springs wear out, and allow the design to be entirely adjusted from operating position– more user friendly. The amount spent was $211.27 throughout the entire process, which came out to 39.6% under budget. Of that, only $104.62 was spent on the final prototype, coming out to 29.9% of the budget. That cost further breaks down to be only $29.30 on the 3D printed components, which can be drastically reduced if mass produced with injection molding (3). <br>   
   We conclude that the prototype is worth pursuing further, as we think it has performed successfully as a proof of concept. We recommend the following changes for an industry-grade product: implement electronic motors to allow users to adjust bucket angle, open/close the jaw and divider from the operating position, and use a malleable material for the tooth to allow it to contour to the scraping surface.
 
@@ -452,37 +452,30 @@ the device needs to be ergonomic for the user. A score below 4 is desirable – 
 
 1. J Keller, J Rost, K Hoover, J Urban, H Leach, M Porras, B Walsh, M Bosold, D Calvin. “Dispersion
 Patterns and Sample Size Estimates for Egg Masses of Spotted Lanternfly (Hemiptera: Fulgoridae),”
-Environmental Entomology, Volume 49, Issue 6, December 2020, Pages 1462–1472. https://doi.org/10.
-1093/ee/nvaa107
+Environmental Entomology, Volume 49, Issue 6, December 2020, Pages 1462–1472. <https://doi.org/10.1093/ee/nvaa107>
 
-2. Ergonomics Plus: A Step-by-Step Guide: Rapid Upper Limb Assessment (RULA), https://ergo-
-plus.com/wp-content/uploads/RULA-A-Step-by-Step-Guide1.pdf. Accessed 23 Mar. 2026.
+2. Ergonomics Plus: A Step-by-Step Guide: Rapid Upper Limb Assessment (RULA), <https://ergo-plus.com/wp-content/uploads/RULA-A-Step-by-Step-Guide1.pdf>. Accessed 23 Mar. 2026.
 
 3. Naoum, Kat de and Rebecca Piccoli. 2025. “Injection Molding vs. 3D Printing: Differences and
-Comparison.” Xometrys RSS. Retrieved May 5, 2026 (https://www.xometry.com/resources/injection-
-molding/injection-molding-vs-3d-printing/).
+Comparison.” Xometrys RSS. Retrieved May 5, 2026 (<https://www.xometry.com/resources/injection-molding/injection-molding-vs-3d-printing/>).
 
 4. Soderberg, Gregory J., and M. J. Blaschak. “Shoulder Internal and External Rotation Peak Torque
 Production Through a Velocity Spectrum in Differing Positions.” Journal of Orthopaedic & Sports
-Physical Therapy, vol. 8, no. 11, May 1987, pp. 518–24. DOI.org (Crossref), https://doi.org/10.2519/
-jospt.1987.8.11.518.
+Physical Therapy, vol. 8, no. 11, May 1987, pp. 518–24. DOI.org (Crossref), <https://doi.org/10.2519/jospt.1987.8.11.518>.
 
-5. Hedge, Alan. CUergo: RULA. Cornell University, https://ergo.human.cornell.edu/ahRULA.html. Ac-
-cessed 23 Mar. 2026.
+5. Hedge, Alan. CUergo: RULA. Cornell University, <https://ergo.human.cornell.edu/ahRULA.html>. Accessed 23 Mar. 2026.
 
 6. Houping Liu, Oviposition Substrate Selection, Egg Mass Characteristics, Host Preference, and Life His-
 tory of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America, Environmental Entomology,
-Volume 48, Issue 6, December 2019, Pages 1452–1468, https://doi.org/10.1093/ee/nvz123
+Volume 48, Issue 6, December 2019, Pages 1452–1468, <https://doi.org/10.1093/ee/nvz123>
 
 7. Perna FM, Coa K, Troiano RP, Lawman HG, Wang CY, Li Y, Moser RP, Ciccolo JT, Comstock BA,
 Kraemer WJ. Muscular Grip Strength Estimates of the U.S. Population from the National Health
-and Nutrition Examination Survey 2011-2012. J Strength Cond Res. 2016 Mar;30(3):867-74. doi:
-10.1519/JSC.0000000000001104. PMID: 26196662; PMCID: PMC7197498.
+and Nutrition Examination Survey 2011-2012. J Strength Cond Res. 2016 Mar;30(3):867-74. doi: 10.1519/JSC.0000000000001104. PMID: 26196662; PMCID: PMC7197498.
 
 8. SELV˙I Kemal C¸ a˘gatay, KABAS¸ ¨Onder, KARATAS¸ Mehmet. “FORCE REQUIREMENTS OF DIF-
 FERENT MANUAL PRUNING SHEARS WHEN CUTTING ABELIA (ABELIA GRANDIFLORA)
-BRANCHES” 7th TAE 17-20 September 2019, Prague, Czech Republic, https://2019.tae-conference.cz
-/proceeding/TAE2019-085-Kemal-Ca%C4%9Fatay-Selvi.pdf
+BRANCHES” 7th TAE 17-20 September 2019, Prague, Czech Republic, <https://2019.tae-conference.cz/proceeding/TAE2019-085-Kemal-Ca%C4%9Fatay-Selvi.pdf>
 
 <br>
 
