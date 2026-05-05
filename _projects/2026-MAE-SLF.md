@@ -12,7 +12,7 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 <br>
 <br>
 
-# Client Pitch: 
+# Client Pitch 
 ### A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
 
 **Team:** Buzzkill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)   
@@ -79,7 +79,7 @@ Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America,
 </div>
 <br>
 
-# Functional Prototype:
+# Functional Prototype
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
 
   <div style="width: 96%; text-align: center;">
@@ -91,14 +91,11 @@ Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America,
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
 
   <div style="width: 96%; text-align: center;">
-    <img src="{{ '/assets/images/Table1pat2.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
+    <img src="{{ '/assets/images/Table1pt2.png' | relative_url }}" style="width: 100%; display: block; margin-bottom: 8px;">
   </div>
 
 </div>
 <br>
-
-![Initial Drawing]({{ "/assets/images/Table1pt1.png" | relative_url }}){: width="575px"}
-![Initial Drawing]({{ "/assets/images/Table1pt2.png" | relative_url }}){: width="575px"}
 
 
 ### Design Intent and Functionality:   
