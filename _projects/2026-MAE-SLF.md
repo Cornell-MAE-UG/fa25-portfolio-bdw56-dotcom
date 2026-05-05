@@ -8,7 +8,7 @@ image: /assets/images/ODP_Initial_Drawing.PNG
 # Table of Contents
 [Client Pitch](#client-pitch)<br>
 [Functional Prototype](#functional-prototype)<br>
-[Client Report](#client-report)
+[Client Report](#client-report)<br>
 <br>
 <br>
 
@@ -356,7 +356,7 @@ We think we will demonstrate removal effectiveness with an interactive exhibit. 
 <br>
 <br>
 
-# Client Report: 
+# Client Report
 ### Context and Problem Statement
   We took on the challenge of controlling the egg masses of spotted lanternflies (SLF) as it was more
 efficient than targeting SLF in its adult stage. Individual egg masses contain 30-50 eggs, which can be laid on organic or inorganic surfaces, and can still hatch if scraped off the surface (1, 6). Current egg mass control strategies fail to ensure destruction or provide a reliable way to quantify egg mass management. Our challenge was to develop a mechanical system that ensures destruction of egg masses across various surfaces and enables growers to numerically analyze the system’s success. Our main constraints were making the
