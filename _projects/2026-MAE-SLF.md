@@ -404,8 +404,14 @@ more egg masses and removable bucket to dispose of them.
 <br>
 
 ### Conclusion and Recommendation
-  The intended goal of the prototype was to efficiently collect egg masses while being comfortable for the user when reaching at a variety of heights. We achieved an average of 2.65 seconds per egg mass when collecting which is incredibly efficient considering current solutions that involve scraping with a credit card. The design performed favorably on the Rapid Upper Limb Assessment (RULA) scoring a 3.9 when a score of below 4 is desired to indicate an ergonomic design (2). Lastly, the generated force of the scraping jaw was 12.5N, which decreased by 8% to 11.5N after 100 cycles. <br>
-  The culmination of these tests indicated to us that the design is efficient and comfortable for a user, meeting our main two objectives; however, there are areas for improvement. For starters, we recommend that electronic components be implemented to open and close the jaw, pivot the head, and open and close the divider. These adjustments work to eliminate the issue of a loss in force as the springs wear out, and allow the design to be entirely adjusted from operating position– more user friendly. The amount spent was $211.27 throughout the entire process, which came out to 39.6% under budget. Of that, only $104.62 was spent on the final prototype, coming out to 29.9% of the budget. That cost further breaks down to be only $29.30 on the 3D printed components, which can be drastically reduced if mass produced with injection molding (3). <br>   
+  The intended goal of the prototype was to efficiently collect egg masses while being comfortable for the user when reaching at a variety of heights. We achieved an average of 2.65 seconds per egg mass when collecting which is incredibly efficient considering current solutions that involve scraping with a credit card. The design performed favorably on the Rapid Upper Limb Assessment (RULA) scoring a 3.9 when a score of below 4 is desired to indicate an ergonomic design (2). Lastly, the generated force of the scraping jaw was 12.5N, which decreased by 8% to 11.5N after 100 cycles. 
+
+<br>
+
+  The culmination of these tests indicated to us that the design is efficient and comfortable for a user, meeting our main two objectives; however, there are areas for improvement. For starters, we recommend that electronic components be implemented to open and close the jaw, pivot the head, and open and close the divider. These adjustments work to eliminate the issue of a loss in force as the springs wear out, and allow the design to be entirely adjusted from operating position– more user friendly. The amount spent was $211.27 throughout the entire process, which came out to 39.6% under budget. Of that, only $104.62 was spent on the final prototype, coming out to 29.9% of the budget. That cost further breaks down to be only $29.30 on the 3D printed components, which can be drastically reduced if mass produced with injection molding (3). 
+
+<br>   
+
   We conclude that the prototype is worth pursuing further, as we think it has performed successfully as a proof of concept. We recommend the following changes for an industry-grade product: implement electronic motors to allow users to adjust bucket angle, open/close the jaw and divider from the operating position, and use a malleable material for the tooth to allow it to contour to the scraping surface.
 
 <br> 
@@ -427,7 +433,10 @@ the device needs to be ergonomic for the user. A score below 4 is desirable – 
 <br>
 
 ### Prototype and Testing Details
-  To construct our final prototype, we cut the PVC pipe to size and drilled ¼ in holes at the desired locations to bolt the 3D printed components to the pipe and then thread the string through the pipe to connect the pull handle and jaw scraper. We created seven 3D printed components: latches, jaw, pivoting head attachment, handle, pull handle lock, shoulder stock, and bucket. These attachments were all created out of PLA. The components are attached by sliding onto the pipe and fastening with M6 and AN4 bolts. The divider, basket, and string catch were constructed out of cut balsa wood, sanded, and glued together. The latches, which hold the basket and divider shut when desired, were attached using M6 bolts. To construct the jaw assembly,we used M6 bolts to attach the hinge and then attached the springs with zip ties to the tabs inside the jaw.   <br>
+  To construct our final prototype, we cut the PVC pipe to size and drilled ¼ in holes at the desired locations to bolt the 3D printed components to the pipe and then thread the string through the pipe to connect the pull handle and jaw scraper. We created seven 3D printed components: latches, jaw, pivoting head attachment, handle, pull handle lock, shoulder stock, and bucket. These attachments were all created out of PLA. The components are attached by sliding onto the pipe and fastening with M6 and AN4 bolts. The divider, basket, and string catch were constructed out of cut balsa wood, sanded, and glued together. The latches, which hold the basket and divider shut when desired, were attached using M6 bolts. To construct the jaw assembly,we used M6 bolts to attach the hinge and then attached the springs with zip ties to the tabs inside the jaw.   
+
+<br>
+
   When determining how much to cut the PVC pipe we performed a simple torque balance. In a study of 20 normal right handed males, the average peak torque they could produce in the full flexion shoulder movement (the relevant one of operations of the device) was 19.92 ft lb (4). Estimating the weight of the bucket and 100 collected egg masses to weigh around 2.5 pounds gives us a maximum length of roughly 8 feet. Due to flex in the PVC pipe, we elected for a length of 3.5ft for the pipe, and 5ft for the entire design.
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -442,8 +451,14 @@ the device needs to be ergonomic for the user. A score below 4 is desirable – 
 </div>
 <br>
 
-  The testing methods were developed based on prototype use and our success criteria. Play-Doh was used to simulate egg masses, about 1 in × 1 in × 0.5 in. To test the average time to remove an egg mass, we placed 20 egg masses at varying heights and timed how long it took to remove all of them. The 50 mm jaw opening requirement was based on the need to fit around and scrape an average egg mass in one motion. We tested this using a dial caliper to accurately measure the maximum opening distance.    <br>
-  The clamp force test came from observations that egg masses can be removed with a plastic card, meaning that the device did not need an extremely high force to work. We tested the clamp force using a spring scale at the teeth of the jaw. Our goal from the iterations was that after 100 cycles the force did not change by more than 5%, which our design failed, prompting our recommendations above.   <br>
+  The testing methods were developed based on prototype use and our success criteria. Play-Doh was used to simulate egg masses, about 1 in × 1 in × 0.5 in. To test the average time to remove an egg mass, we placed 20 egg masses at varying heights and timed how long it took to remove all of them. The 50 mm jaw opening requirement was based on the need to fit around and scrape an average egg mass in one motion. We tested this using a dial caliper to accurately measure the maximum opening distance.    
+
+  <br>
+
+  The clamp force test came from observations that egg masses can be removed with a plastic card, meaning that the device did not need an extremely high force to work. We tested the clamp force using a spring scale at the teeth of the jaw. Our goal from the iterations was that after 100 cycles the force did not change by more than 5%, which our design failed, prompting our recommendations above. 
+  
+  <br>
+
   Lastly, CuErgo’s RULA XL testing was chosen because the device is used at different heights and body positions, so comfort is vital if growers were to implement the device in their vineyards. The score is derived from standardized calculations in many categories such as the weight and length of the device, percentage of time in different operating positions, and more (5). Other ergonomic considerations included average grip strength across demographics and force required to operate common garden tools (7, 8).
 
 <br>
