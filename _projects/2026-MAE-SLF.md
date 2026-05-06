@@ -2,7 +2,7 @@
 layout: project
 title: MAE2250 Open Design Project
 description: Group project focusing on the lanternfly infestation and their effects on the grape industry 
-technologies: [GoodNotes]
+technologies: [GoodNotes, Fusion360, Google Docs, Overleaf]
 image: /assets/images/ODP_Initial_Drawing.PNG
 ---
 # Table of Contents
