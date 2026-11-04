@@ -65,7 +65,7 @@ I am a Mechanical Engineering student at Cornell University pursuing a Business 
   - Contributed to external engagement initiatives, industry networking, and promotional efforts to strengthen relationships with potential sponsors and stakeholders.
 
 - **Nanotechnology Research at Cornell**  
-  *Cornell University | Fall 2024*
+  *Cornell University | Introduction to Nanotechnology | Fall 2024*
 
   - Designed resistor masks in GIMP and fabricated microscale resistors through aluminum deposition, photolithography, development, and etching, comparing measured resistivity with target values.
   - Operated AFM and STM instrumentation to characterize carbon nanotubes and graphite at the nanoscale, analyzing dimensions and atomic spacing using NanoSurf and WSxM software.
