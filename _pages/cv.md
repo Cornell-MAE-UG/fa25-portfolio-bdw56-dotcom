@@ -65,12 +65,15 @@ I am a Mechanical Engineering student at Cornell University pursuing a Business 
   - Contributed to external engagement initiatives, industry networking, and promotional efforts to strengthen relationships with potential sponsors and stakeholders.
 
 - **Nanotechnology Research at Cornell**  
-  *Cornell University*
+  *Cornell University | Fall 2024*
 
-  - Designed photolithography masks and performed micro-scale pattern transfer and etching using advanced cleanroom fabrication techniques.
-  - Constructed inductive circuits and resistors to develop a functional crystal radio, applying principles of electromagnetism and energy transfer.
-  - Synthesized and characterized nanomaterials, including carbon nanotubes and quantum dots, using Scanning Tunneling Microscopy (STM) and Atomic Force Microscopy (AFM).
-  - Explored nanoscale material properties and behavior through experimental observation and laboratory analysis.
+  - Designed resistor masks in GIMP and fabricated microscale resistors through aluminum deposition, photolithography, development, and etching, comparing measured resistivity with target values.
+  - Operated AFM and STM instrumentation to characterize carbon nanotubes and graphite at the nanoscale, analyzing dimensions and atomic spacing using NanoSurf and WSxM software.
+  - Fabricated PDMS microchannels and analyzed pressure-driven and electro-osmotic flow using particle tracking and velocity distributions to characterize microscale fluid behavior.
+  - Characterized CdSe/ZnS quantum dots using spectrophotometry, analyzing emission and absorption spectra to determine photon energies and full width at half maximum (FWHM).
+  - Modeled MEMS fabrication in IntelliSuite, simulating lithography and electrostatic/mechanical behavior of a microscale comb-drive actuator.
+  - Constructed an LC crystal-radio circuit, calculating resonant frequency from inductance and capacitance and comparing predictions with experimental radio reception.
+  - Compared AFM and SEM measurements of carbon nanotube dimensions to evaluate differences between nanoscale characterization techniques.
 
 ---
 
